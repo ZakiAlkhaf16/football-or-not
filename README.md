@@ -4,8 +4,8 @@ A computer vision project to classify images as either "football" or "not footba
 
 ## Project Structure
 
-- `Football Or Not.ipynb`: Main notebook for data collection, training, and evaluation.
-- `football/`, `basketball/`: Directories for downloaded images.
+- `Football Or Not.ipynb`: Main notebook for data collection, training, and evaluation (included in this repository).
+- `football/`, `basketball/`: Directories for downloaded images. **These folders are generated locally when you run the notebook and are not included in the GitHub repository.**
 
 ## Features
 - Downloads images using DuckDuckGo search.
@@ -37,4 +37,6 @@ MIT License (see LICENSE file).
 - [DuckDuckGo Search](https://pypi.org/project/duckduckgo-search/)
 - [fastdownload](https://github.com/fastai/fastdownload)
 - [fastcore](https://github.com/fastai/fastcore)
-# football-or-not
+
+
+[View the Jupyter Notebook](Football%20Or%20Not.ipynb)
