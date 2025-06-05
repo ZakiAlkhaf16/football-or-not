@@ -37,3 +37,4 @@ MIT License (see LICENSE file).
 - [DuckDuckGo Search](https://pypi.org/project/duckduckgo-search/)
 - [fastdownload](https://github.com/fastai/fastdownload)
 - [fastcore](https://github.com/fastai/fastcore)
+# football-or-not
