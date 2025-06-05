@@ -1,0 +1,24 @@
+# Ignore Python cache and notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data and model files
+football/
+basketball/
+football_or_not/
+*.jpg
+*.jpeg
+*.png
+*.h5
+*.pth
+*.ckpt
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
